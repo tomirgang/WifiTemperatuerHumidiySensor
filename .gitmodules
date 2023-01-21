@@ -1,0 +1,3 @@
+[submodule "lib/DHT20"]
+	path = lib/DHT20
+	url = git@github.com:RobTillaart/DHT20.git
